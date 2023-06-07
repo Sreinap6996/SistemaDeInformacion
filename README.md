@@ -21,7 +21,7 @@ Este repositorio contiene el código fuente y la documentación del Sistema de I
 1. Asegúrate de tener los datos de los vehículos y los agentes de policía en una base de datos accesible desde el sistema.
 2. Configura la conexión a la base de datos en el archivo `config.js`.
 3. Ejecuta la aplicación.
-4. Accede al sistema a través de tu navegador web en la siguiente dirección: `http://localhost:3000`.
+4. Accede al sistema a través de tu navegador web en la siguiente dirección: `http://localhost:8080`.
 
 ## Licencia
 
