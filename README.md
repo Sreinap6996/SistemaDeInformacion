@@ -1,5 +1,8 @@
 # Sistema de Información de Patrulla de Policía de Tráfico
 
+![Texto alternativo](![image](https://github.com/Sreinap6996/SistemaDeInformacion/assets/127044104/d776a28b-c7e3-427c-b3da-46fc2c5a7e47)
+)
+
 Este repositorio contiene el código fuente y la documentación del Sistema de Información de Patrulla de Policía de Tráfico. El sistema está diseñado para ayudar a los agentes de policía de tráfico a gestionar y registrar la información de los vehículos que detienen en una carretera.
 
 ## Características
